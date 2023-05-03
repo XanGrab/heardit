@@ -5,7 +5,7 @@ export type {
   SpotifyPlaylist,
   SpotifyPlaylistItem,
   SpotifyToken,
-  SpotifyPlaylistTracks
-} from './spotify';
+  SpotifyPlaylistTracks,
+} from "./spotify";
 
-export type { Attempt, Song, Guess } from './audial';
+export type { Attempt, Song, Guess } from "./game";
